@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sm",
+  "name": "Star Mod",
+  "description": "My first mod.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["matthew_a_w"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

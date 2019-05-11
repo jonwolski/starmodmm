@@ -1,0 +1,22 @@
+item.item_mossystonechunk.name=Mossy Stone Chunk
+
+//TOOLS
+item.sword_mossystone.name=Mossy Stone Sword
+item.axe_mossystone.name=Mossy Stone Axe
+item.hoe_mossystone.name=Mossy Stone Hoe
+item.spade_mossystone.name=Mossy Stone Shovel
+item.pickaxe_mossystone.name=Mossy Stone Pickaxe
+
+
+//food
+item.stone_apple.name=Stone Apple
+
+
+//Armor
+item.helmet_mossystone.name=Mossy Helmet
+item.chestplate_mossystone.name=Mossy Chestplate
+item.leggings_mossystone.name=Mossy Leggings
+item.boots_mossystone.name=Mossy Boots
+//Blocks
+tile.moss_block.name=Moss Block
+tile.moss_overworld.name=Moss Overworld

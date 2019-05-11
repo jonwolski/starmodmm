@@ -1,0 +1,9 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "sm:items/bow_stone_pulling_0"
+    }
+}
+
+
+

@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "MMM",
+        " S ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "M":
+        {
+            "item": "sm:item_mossystonechunk"
+        },
+          "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+   
+    "result":
+    {
+        "item": "sm:pickaxe_mossystone",
+        "count": 1
+    }
+}
